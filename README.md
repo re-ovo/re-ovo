@@ -5,3 +5,4 @@
 * Email: re_dev@qq.com
 
 #### 技能
+主要搞Java/Kotlin, 最近在学Android开发
