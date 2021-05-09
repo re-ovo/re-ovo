@@ -6,7 +6,7 @@ ___
 * Email: re_dev@qq.com
 
 #### 看看我的近期项目吧
-[ComposeDiary](https://github.com/jiangdashao/ComposeDiary) - 基于 Jetpack Compose 的日记APP
+* [ComposeDiary](https://github.com/jiangdashao/ComposeDiary) - 基于 Jetpack Compose 的日记APP
 
 #### 介绍
 主要使用Java/Kotlin, 最近在学Android开发。   
