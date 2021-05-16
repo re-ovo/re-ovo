@@ -7,6 +7,7 @@ ___
 
 #### 近期项目
 * [ComposeDiary](https://github.com/jiangdashao/ComposeDiary) - 基于 Jetpack Compose 的日记APP
+* [ComposeWeather](https://github.com/jiangdashao/ComposeWeather) - 基于 Jetpack Compose 的天气APP
 
 #### 开发语言: 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="32"/> **Kotlin**  
