@@ -5,6 +5,9 @@ ___
 * QQ: 1609403959
 * Email: re_dev@qq.com
 
+### 开发中
+* [PolymartAPP](https://github.com/jiangdashao/PolymartAPP) - Polymart Android Client
+
 #### 近期项目
 * [ComposeDiary](https://github.com/jiangdashao/ComposeDiary) - 基于 Jetpack Compose 的日记APP
 * [ComposeWeather](https://github.com/jiangdashao/ComposeWeather) - 基于 Jetpack Compose 的天气APP
