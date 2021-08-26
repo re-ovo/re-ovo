@@ -5,7 +5,10 @@ ___
 * QQ: 1609403959
 * Email: re_dev@qq.com
 
-#### 近期项目
+#### 个人算法实践项目
+https://github.com/jiangdashao/algorithm
+
+#### 近期Android项目
 * [iwara4a](https://github.com/jiangdashao/iwara4a) - iwara动漫网第三方app
 * [ASoulZhiwang](https://github.com/jiangdashao/ASoulZhiWang) - 枝网查重APP
 * [ComposeDiary](https://github.com/jiangdashao/ComposeDiary) - 基于 Jetpack Compose 的日记APP
@@ -19,5 +22,4 @@ ___
 
 #### 开发方向:
 * Android (Jetpack Compose)
-* Flutter
 * [Bukkit Plugins](https://spigotmc.org)
