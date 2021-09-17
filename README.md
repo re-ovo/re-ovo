@@ -1,10 +1,6 @@
 ### 你好 👋
 ___
 
-#### 联系方式
-* QQ: 1609403959
-* Email: re_dev@qq.com
-
 #### 个人算法实践项目
 https://github.com/jiangdashao/algorithm
 
