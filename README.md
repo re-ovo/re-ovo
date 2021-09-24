@@ -19,3 +19,5 @@ https://github.com/jiangdashao/algorithm
 #### 开发方向:
 * Android (Jetpack Compose)
 * [Bukkit Plugins](https://spigotmc.org)
+
+[![RE's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangdashao)](https://github.com/anuraghazra/github-readme-stats)
