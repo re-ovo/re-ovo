@@ -5,8 +5,11 @@ ___
 https://github.com/jiangdashao/algorithm
 
 #### 近期Android项目
+* [EzLogin](https://github.com/jiangdashao/ezlogin) - 2FA验证码APP
 * [iwara4a](https://github.com/jiangdashao/iwara4a) - iwara动漫网第三方app
 * [ASoulZhiwang](https://github.com/jiangdashao/ASoulZhiWang) - 枝网查重APP
+
+#### 半成品
 * [ComposeDiary](https://github.com/jiangdashao/ComposeDiary) - 基于 Jetpack Compose 的日记APP
 * [ComposeWeather](https://github.com/jiangdashao/ComposeWeather) - 基于 Jetpack Compose 的天气APP
 * [PolymartAPP](https://github.com/jiangdashao/PolymartAPP) - Polymart Android Client
