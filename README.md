@@ -1,18 +1,16 @@
 ### 你好 👋
 ___
 
+#### 开源库
+* [ZoomableComposeImage](https://github.com/re-ovo/ZoomableComposeImage)
+
 #### 个人算法实践项目
-https://github.com/jiangdashao/algorithm
+https://github.com/re-ovo/algorithm
 
 #### 近期Android项目
-* [EzLogin](https://github.com/jiangdashao/ezlogin) - 2FA验证码APP
-* [iwara4a](https://github.com/jiangdashao/iwara4a) - iwara动漫网第三方app
-* [ASoulZhiwang](https://github.com/jiangdashao/ASoulZhiWang) - 枝网查重APP
-
-#### 半成品
-* [ComposeDiary](https://github.com/jiangdashao/ComposeDiary) - 基于 Jetpack Compose 的日记APP
-* [ComposeWeather](https://github.com/jiangdashao/ComposeWeather) - 基于 Jetpack Compose 的天气APP
-* [PolymartAPP](https://github.com/jiangdashao/PolymartAPP) - Polymart Android Client
+* [EzLogin](https://github.com/re-ovo/ezlogin) - 2FA验证码APP
+* [iwara4a](https://github.com/re-ovo/iwara4a) - iwara动漫网第三方app
+* [ASoulZhiwang](https://github.com/re-ovo/ASoulZhiWang) - 枝网查重APP
 
 #### 开发语言: 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="32"/> **Kotlin**  
