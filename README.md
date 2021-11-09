@@ -21,4 +21,4 @@ https://github.com/re-ovo/algorithm
 * Android (Jetpack Compose)
 * [Bukkit Plugins](https://spigotmc.org)
 
-[![RE's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangdashao)](https://github.com/anuraghazra/github-readme-stats)
+[![RE's GitHub stats](https://github-readme-stats.vercel.app/api?username=re-ovo)](https://github.com/anuraghazra/github-readme-stats)
