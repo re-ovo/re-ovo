@@ -2,7 +2,7 @@
 ___
 
 #### 开源库
-* [ZoomableComposeImage](https://github.com/re-ovo/ZoomableComposeImage)
+* [ZoomableComposeImage](https://github.com/re-ovo/ZoomableComposeImage): 一个基于jetpack compose的可缩放图片控件
 
 #### 个人算法实践项目
 https://github.com/re-ovo/algorithm
