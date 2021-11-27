@@ -8,6 +8,7 @@ ___
 https://github.com/re-ovo/algorithm
 
 #### 近期Android项目
+* [RainMusic](https://github.com/re-ovo/RainMusic) - 网易云第三方APP （开发中）
 * [EzLogin](https://github.com/re-ovo/ezlogin) - 2FA验证码APP
 * [iwara4a](https://github.com/re-ovo/iwara4a) - iwara动漫网第三方app
 * [ASoulZhiwang](https://github.com/re-ovo/ASoulZhiWang) - 枝网查重APP
