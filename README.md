@@ -1,24 +1,20 @@
-### 你好 👋
-___
+<h3 align="center">你好啊 👋 这里是一个计算机专业的大四学生</h3>
 
-### 开源库
-* [ZoomableComposeImage](https://github.com/re-ovo/ZoomableComposeImage): 一个基于jetpack compose的可缩放图片控件
+<h3 align="left">联系我:</h3>
+<p align="left">
+<a href="https://discord.gg/RE#0672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RE#0672" height="30" width="40" /></a>
+</p>
 
-### 近期Android项目
-* [RainMusic](https://github.com/re-ovo/RainMusic) - 网易云第三方APP （开发中）
-* [EzLogin](https://github.com/re-ovo/ezlogin) - 2FA验证码APP
-* [iwara4a](https://github.com/re-ovo/iwara4a) - iwara动漫网第三方app
+<h3 align="left">我的开源项目</h3>
+
+* [RainMusic](https://github.com/re-ovo/RainMusic) - 网易云第三方APP （开发中）   
+* [ZoomableComposeImage](https://github.com/re-ovo/ZoomableComposeImage): 一个为Jetpack Compose写的的可缩放图片控件
+* [EzLogin](https://github.com/re-ovo/ezlogin) - 2FA验证码APP   
+* [iwara4a](https://github.com/re-ovo/iwara4a) - iwara动漫网第三方app   
 * [ASoulZhiwang](https://github.com/re-ovo/ASoulZhiWang) - 枝网查重APP
+* https://github.com/re-ovo/algorithm - 算法实践 (基于kt)
 
-### 开发语言: 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="32"/> **Kotlin**  
-* <img src="https://logoeps.com/wp-content/uploads/2013/03/java-eps-vector-logo.png" width="32"/>  **Java**
-
-### 开发方向:
-* Android (Jetpack Compose)
-* [Bukkit Plugins](https://spigotmc.org)
-
-### 个人算法实践(kotlin based)
-https://github.com/re-ovo/algorithm
-
-[![RE's GitHub stats](https://github-readme-stats.vercel.app/api?username=re-ovo)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">语言和工具:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<h3 align="left">Github统计:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=re-ovo&show_icons=true&locale=en" alt="re-ovo" /></p>
