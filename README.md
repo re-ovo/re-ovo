@@ -7,7 +7,7 @@
 
 <h3 align="left">我的开源项目</h3>
 
-* [RainMusic](https://github.com/re-ovo/RainMusic) - 网易云第三方APP （开发中）   
+* [RainMusic](https://github.com/re-ovo/RainMusic) - 一个网易云第三方APP
 * [ZoomableComposeImage](https://github.com/re-ovo/ZoomableComposeImage): 一个为Jetpack Compose写的的可缩放图片控件
 * [EzLogin](https://github.com/re-ovo/ezlogin) - 2FA验证码APP   
 * [iwara4a](https://github.com/re-ovo/iwara4a) - iwara动漫网第三方app   
