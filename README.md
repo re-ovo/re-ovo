@@ -1,8 +1,9 @@
 <h3 align="center">你好啊 👋 这里是一个计算机专业的大四学生</h3>
 
-<h3 align="left">联系我:</h3>
+<h3 align="left">联系方式</h3>
 <p align="left">
-<a href="https://discord.gg/RE#0672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RE#0672" height="30" width="40" /></a>
+<a href="mailto:re_dev@qq.com" target="blank">Email</a>
+<a href="https://stackoverflow.com/users/9440615/re-ovo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="re_ovo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">我的开源项目</h3>
