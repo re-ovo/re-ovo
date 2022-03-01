@@ -1,5 +1,7 @@
 <h3 align="center">你好啊 👋 这里是一个计算机专业的大四学生</h3>
 
+主要用Java和Kotlin来开发，最近在研究Jetpack Compose, 大四待业中
+
 <h3 align="left">联系方式</h3>
 <p align="left">
 <a href="mailto:re_dev@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/re-ovo/re-ovo/main/email_black_24dp.svg" alt="re_ovo" height="30" width="40" /></a>
