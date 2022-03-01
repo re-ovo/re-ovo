@@ -10,8 +10,10 @@
 
 <h3 align="left">我的开源项目</h3>
 
-* [RainMusic](https://github.com/re-ovo/RainMusic) - 一个网易云第三方APP
+* [slanted-text-compose](https://github.com/re-ovo/slanted-text-compose): 一个为Compose设计的倾斜标签组件
 * [ZoomableComposeImage](https://github.com/re-ovo/ZoomableComposeImage): 一个为Jetpack Compose写的的可缩放图片控件
+
+* [RainMusic](https://github.com/re-ovo/RainMusic) - 一个网易云第三方APP
 * [EzLogin](https://github.com/re-ovo/ezlogin) - 2FA验证码APP   
 * [iwara4a](https://github.com/re-ovo/iwara4a) - iwara动漫网第三方app   
 * [ASoulZhiwang](https://github.com/re-ovo/ASoulZhiWang) - 枝网查重APP
