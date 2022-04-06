@@ -1,6 +1,7 @@
 <h3 align="center">你好啊 👋 这里是一个计算机专业的大四学生</h3>
 
 主要用Java和Kotlin来开发，最近在研究Jetpack Compose, 大四找工作中
+博客地址: https://rerere.me
 
 <h3 align="left">联系方式</h3>
 <p align="left">
