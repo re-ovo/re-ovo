@@ -10,6 +10,7 @@
 
 <h3 align="left">我的开源项目</h3>
 
+* [compose-setting](https://github.com/re-ovo/compose-setting): 一个为Compose设计的Setting库
 * [slanted-text-compose](https://github.com/re-ovo/slanted-text-compose): 一个为Compose设计的倾斜标签组件
 * [ZoomableComposeImage](https://github.com/re-ovo/ZoomableComposeImage): 一个为Jetpack Compose写的的可缩放图片控件
 
