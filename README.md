@@ -2,17 +2,11 @@
 
 主要用Java和Kotlin来开发，最近在研究Jetpack Compose, 大四找工作中
 
-博客: https://rerere.me
-
 <h3 align="left">联系方式</h3>
 <p align="left">
 <a href="mailto:re_dev@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/re-ovo/re-ovo/main/email_black_24dp.svg" alt="re_ovo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9440615/re-ovo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="re_ovo" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">正在忙于</h3>
-
-* [Tension](https://github.com/re-ovo/Tension) - 一个信息聚合APP
 
 <h3 align="left">我的开源项目</h3>
 
