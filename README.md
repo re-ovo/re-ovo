@@ -1,5 +1,6 @@
 # 💫 About Me:
-🤗 移动端全栈开发 (Android/iOS/Flutter)<br>🎨 喜欢FPS游戏和动漫<br>🥊 Kotlin Fanboy<br><br>
+🤗 全能一体机: 前端/后端/移动端
+<br>🎨 喜欢FPS游戏和动漫<br>🥊 Kotlin Fanboy<br><br>
 
 
 # 💻 Tech Stack:
