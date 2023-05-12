@@ -5,6 +5,7 @@
 * JVM: Kotlin/Java
 * Web/Node: HTML/CSS/JavaScript/TypeScript/Vue/React
 * Android: Jetpack Compose
+* Others: Python
 
 ## 游戏
 * Apex
