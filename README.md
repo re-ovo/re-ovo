@@ -11,4 +11,6 @@
 * Apex
 
 ---
+[![Discord Presence](https://lanyard.cnrad.dev/api/315852605148364800)](https://discord.com/users/315852605148364800)
+
 [![](https://visitcount.itsvg.in/api?id=re-ovo&icon=4&color=0)](https://visitcount.itsvg.in)
