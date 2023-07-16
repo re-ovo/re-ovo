@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RE</h1>
-<h3 align="center">菜鸡开发者一枚</h3>
+<h3 align="center">Kotlin大法好</h3>
 
 - 🔭 主业 **前端/移动端 开发**
 
