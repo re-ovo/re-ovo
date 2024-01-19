@@ -3,7 +3,9 @@
 ###
 
 <p align="left">
-  ✨ Full stack developer<br>📚 Learning Blender/Unreal Engine
+  ✨ Full stack developer<br>
+  💖 Like computer graphics related things
+  📚 Learning Blender/Unreal Engine<br>
 </p>
 
 ###
