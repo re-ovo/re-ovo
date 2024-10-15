@@ -5,7 +5,6 @@
 <p align="left">
   ✨ Full stack developer<br>
   💖 Like computer graphics related things<br>
-  📚 Learning Blender/Unreal Engine<br>
 </p>
 
 ###
