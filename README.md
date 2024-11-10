@@ -9,8 +9,8 @@
 
 ## Skills
 - Web(Javascript/Typescript/Vue/Nuxt/React)
-- WebGL
-- WebGPU
+- WebGL & WebGPU & OpenGL
+- Android (Jetpack Compose)
 - Blender
 
 ## Projects
