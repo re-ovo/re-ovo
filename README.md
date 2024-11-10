@@ -8,7 +8,7 @@
 - Rust(Learning)
 
 ## Skills
-- Vue
+- Web(Javascript/Typescript/Vue/Nuxt/React)
 - WebGL
 - WebGPU
 - Blender
