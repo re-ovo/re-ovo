@@ -13,7 +13,7 @@
 - Javascript/Typescript
 - Java/Kotlin
 - GLSL/WGSL
-- Rust
+- Rust/Python
 
 ## Skills
 - Web(Javascript/Typescript/Vue/Nuxt/React)
