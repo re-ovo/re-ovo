@@ -1,5 +1,5 @@
 ## 关于我
-前端，图形开发
+前端, 图形开发方向。
 
 ## Recent Projects
 - [unocss-intellij](https://github.com/re-ovo/unocss-intellij) - 为Jetbrains IDE提供Unocss支持
@@ -16,7 +16,7 @@
 - Rust/Python
 
 ## Skills
-- Web(Javascript/Typescript/Vue/Nuxt/React)
+- Web (Javascript, TypeScript, Vue, React, Nuxt, Next, WebAssembly)
 - WebGL & WebGPU & OpenGL
 - Android (Jetpack Compose)
 - Blender
