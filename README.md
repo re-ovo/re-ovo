@@ -2,6 +2,7 @@
 前端, 图形开发方向。
 
 ## Recent Projects
+- [MapHub](https://maphub.rerere.me/) - 超快的自动驾驶地图查看器
 - [unocss-intellij](https://github.com/re-ovo/unocss-intellij) - 为Jetbrains IDE提供Unocss支持
 - [web-naga](https://github.com/re-ovo/web-naga) - naga的wasm绑定，由于不同shader语言之间的转换
 - [bubble](https://github.com/re-ovo/bubble) - 基于WebGPU的3D渲染器
