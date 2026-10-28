@@ -2,8 +2,8 @@
 前端, 图形开发方向。
 
 ## Recent Projects
-- [MapHub](https://maphub.rerere.me/) - 超快的自动驾驶地图查看器
 - [Rikkahub](https://github.com/rikkahub/rikkahub) - Android AI聊天客户端，支持多种供应商和多种功能，完全本地实现
+- [BetterText](https://github.com/re-ovo/bettertext) - Jetpack Compose富文本渲染解决方案
 - [unocss-intellij](https://github.com/re-ovo/unocss-intellij) - 为Jetbrains IDE提供Unocss支持
 - [wgpu-path-tracing](https://github.com/re-ovo/wgpu-path-tracing) - 基于WebGPU Compute Shader实现的路径追踪渲染器
 - [web-naga](https://github.com/re-ovo/web-naga) - naga的wasm绑定，由于不同shader语言之间的转换
@@ -22,7 +22,6 @@
 - WebGL & WebGPU & OpenGL
 - Android (Jetpack Compose)
 - Blender
-
 
 ###
 
